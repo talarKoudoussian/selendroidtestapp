@@ -65,3 +65,7 @@ This project include 5 test cases:
 |Display text and focus on input|Clicks on `Display and focus on layout` button and checks if expected text is displayed and the input is focused|
 |Display toast|Clicks on `Displays a Toast` Button and checks if expected toast text is displayed|
 |Register user|Clicks on the folder Button, inserts all the fields with data read from the excel sheet in `/src/test/java/resources/testData.xlsx`, clicks on `Register User`, checks if the displayed data on the view are the ones inserted by the user and clicks on `Register`|
+
+## Test Output
+
+![selendroidtestapp_automated_test_min](https://user-images.githubusercontent.com/38904721/53297034-0f669200-3820-11e9-8a3c-300aa9559f99.gif)
